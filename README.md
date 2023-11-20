@@ -1,5 +1,5 @@
 # Spinal Projecting Neuron Atlas Analysis
-This repository contains the scripts and data used in the analysis of the spinal projecting neuron snRNAseq atlas associated with Winter et al, BioRxiv, 2023.
+This repository contains the scripts and data used in the analysis of the spinal projecting neuron snRNAseq atlas associated with Winter, Jacobi, Su et al, Nature, 2023.
 
 All scripts, and raw and processed data will be made available upon publication.
 
