@@ -8,4 +8,4 @@ The data are accessible through the Neuroscience Multi-omics (NeMO) Archive (htt
 Additional code used in the manuscript is available at https://github.com/AllenInstitute/scrattch.bigcat and https://github.com/AllenInstitute/scrattch.mapping.
 
 ## Questions?
-Please direct any questions associated with this repository to Carla Winter (carla_winter@hms.harvard.edu) or Zhigang He (zhigang.he@childrens.harvard.edu).
+Please direct any questions associated with this repository to Carla C. Winter (carla_winter@hms.harvard.edu) or Zhigang He (zhigang.he@childrens.harvard.edu).
